@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gsgupaneluf/static/css/main.3f1a504a.css",
+    "main.css": "/gsgupaneluf/static/css/main.f9c57f88.css",
     "main.js": "/gsgupaneluf/static/js/main.5ea8eb71.js",
     "static/media/24ГПм-о-11.pdf": "/gsgupaneluf/static/media/24ГПм-о-11.aa3e4ea0b9b13a6a1caa.pdf",
     "static/media/23ГПм-о-21.pdf": "/gsgupaneluf/static/media/23ГПм-о-21.191e4b5d5ac12827e94f.pdf",
@@ -33,11 +33,11 @@
     "static/media/qr-vk.svg": "/gsgupaneluf/static/media/qr-vk.376bf7e6d9f26229efd7ba3be19d82d5.svg",
     "static/media/qr-tg.svg": "/gsgupaneluf/static/media/qr-tg.de362359674d2d570f085de0d5d3086b.svg",
     "index.html": "/gsgupaneluf/index.html",
-    "main.3f1a504a.css.map": "/gsgupaneluf/static/css/main.3f1a504a.css.map",
+    "main.f9c57f88.css.map": "/gsgupaneluf/static/css/main.f9c57f88.css.map",
     "main.5ea8eb71.js.map": "/gsgupaneluf/static/js/main.5ea8eb71.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f1a504a.css",
+    "static/css/main.f9c57f88.css",
     "static/js/main.5ea8eb71.js"
   ]
 }
